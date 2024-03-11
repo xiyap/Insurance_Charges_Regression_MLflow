@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/433382860941836878
+creation_time: 1710130295805
+experiment_id: '433382860941836878'
+last_update_time: 1710130295805
+lifecycle_stage: active
+name: insurance_charge_prediction

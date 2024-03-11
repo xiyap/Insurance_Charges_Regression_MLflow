@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433382860941836878/a58ba85378d14b8abfd29bd5ef0199fc/artifacts
+end_time: 1710130332705
+entry_point_name: ''
+experiment_id: '433382860941836878'
+lifecycle_stage: active
+run_id: a58ba85378d14b8abfd29bd5ef0199fc
+run_name: lr_1
+run_uuid: a58ba85378d14b8abfd29bd5ef0199fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710130328721
+status: 3
+tags: []
+user_id: xiani
